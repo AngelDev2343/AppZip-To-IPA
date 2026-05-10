@@ -44,7 +44,7 @@ chmod +x convert_appzip_to_ipa.sh
 
 **Windows**
 ```cmd
-convert_appzip_to_ipa.bat Runner.app.zip
+convert_appzip_to_ipa.bat TuApp.app.zip
 ```
 
 > En Windows cambia "TuApp" por el nombre de tu aplicación.
